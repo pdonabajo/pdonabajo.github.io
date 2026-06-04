@@ -1,51 +1,38 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
+    <meta name="description" content="{{ site.description }}">
+</head>
+<body>
+    <header>
+        <h1>P.D. Onabajo</h1>
+        <p>Proclaiming The Excellency of God as the Final Authority.</p>
+        <nav>
+            <a href="{{ '/' | relative_url }}">Home</a>
+            <a href="{{ '/about/' | relative_url }}">About</a>
+            <a href="{{ '/movement/' | relative_url }}">Movement</a>
+            <a href="{{ '/doctrine/' | relative_url }}">Doctrine</a>
+            <a href="{{ '/podcast/' | relative_url }}">Podcast</a>
+            <a href="{{ '/prayer/' | relative_url }}">Prayer</a>
+            <a href="{{ '/events/' | relative_url }}">Events</a>
+            <a href="{{ '/books/' | relative_url }}">Books</a>
+            <a href="{{ '/partner/' | relative_url }}">Partner</a>
+            <a href="{{ '/contact/' | relative_url }}">Contact</a>
+            <a href="{{ '/blog/' | relative_url }}">Blog</a>
+        </nav>
+    </header>
 
-    {% include meta.html %}
+    <main>
+        {{ content }}
+    </main>
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
-
-    {% include analytics.html %}
-  </body>
+    <footer>
+        <p>© {{ 'now' | date: "%Y" }} P.D. Onabajo | The Frequency Live | Frequency Nation</p>
+        <p>Follow us: <a href="#">YouTube</a> | <a href="#">Instagram</a> | <a href="#">Facebook</a></p>
+    </footer>
+</body>
 </html>
