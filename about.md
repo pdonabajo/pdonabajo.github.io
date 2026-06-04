@@ -1,15 +1,19 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: "About P.D. Onabajo"
 ---
+# About P.D. Onabajo
 
-Some information about you!
+P.D. Onabajo is called to proclaim **The Excellency of God** as the **Final Authority**.  
 
-### More Information
+## Early Life & Calling  
+[Write your story here – brief paragraph]
 
-A place to include any other types of information that you'd like to include about yourself.
+## Vision Behind The Frequency Live  
+The Frequency Live exists to broadcast the uncompromised truth of God’s supremacy.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+## Core Convictions  
+- The Excellency of God  
+- Final Authority of Scripture  
+- Revival and Holiness  
+- Kingdom Culture
