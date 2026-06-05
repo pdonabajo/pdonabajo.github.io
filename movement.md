@@ -3,7 +3,7 @@
 
 ## The Frequency Live
 
-The Frequency Live is a Kingdom-centered movement founded by Prince Davide (P.D.) Onabajo in 2025 with a mandate to proclaim the Excellency of God as the Final Authority in every sphere of life.
+The Frequency Live is a Kingdom-centered movement founded by Prince David (P.D.) Onabajo in 2025 with a mandate to proclaim the Excellency of God as the Final Authority in every sphere of life.
 
 We believe that humanity was created to live in alignment with God's voice, purpose, and authority. Yet in a world filled with competing voices, confusion, and spiritual noise, many have lost connection with the frequency of truth.
 
