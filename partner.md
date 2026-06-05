@@ -176,7 +176,7 @@ Sponsors become strategic partners in making these gatherings possible.
 
 ## Speaking, Teaching and Ministry Engagements
 
-Prince Davide (P.D.) Onabajo is available for selected ministry engagements, leadership events, conferences, podcasts, workshops, prayer gatherings, and special programs.
+Prince David (P.D.) Onabajo is available for selected ministry engagements, leadership events, conferences, podcasts, workshops, prayer gatherings, and special programs.
 
 Speaking Topics May Include:
 
@@ -234,7 +234,7 @@ Thank you for believing in the vision.
 
 Thank you for partnering with The Frequency Live.
 
-**Prince Davide (P.D.) Onabajo**
+**Prince David (P.D.) Onabajo**
 Founder, The Frequency Live
 
 **The Excellency of God**
