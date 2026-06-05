@@ -1,4 +1,4 @@
-# EVENTS
+
 
 ## Gathering People. Awakening Purpose. Advancing God's Kingdom.
 
