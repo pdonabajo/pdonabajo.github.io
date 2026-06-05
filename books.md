@@ -1,4 +1,4 @@
-# BOOKS & PUBLICATIONS
+
 
 ## Preserving Truth. Equipping Believers. Influencing Generations.
 
