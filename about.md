@@ -1,11 +1,11 @@
 <img src="/images/pdonabajo.jpg" alt="P.D. Onabajo" style="width:180px; border-radius:50%;">
-# PRINCE DAVIDE (P.D.) ONABAJO
+# PRINCE DAVID (P.D.) ONABAJO
 
 ## Founder, The Frequency Live
 
 ### Proclaiming The Excellency of God as the Final Authority
 
-Prince Davide (P.D.) Onabajo is a Christian leader, teacher, revival advocate, media visionary, Information Security Professional, and Real Estate Investor dedicated to advancing the Kingdom of God through prayer, teaching, discipleship, and digital media.
+Prince David (P.D.) Onabajo is a Christian leader, teacher, revival advocate, media visionary, Information Security Professional, and Real Estate Investor dedicated to advancing the Kingdom of God through prayer, teaching, discipleship, and digital media.
 
 Born in Ketu, Lagos State, Nigeria, and originally from Ijebu-Ishara, Ogun State, P.D. Onabajo was raised in a Christian home where his spiritual journey began at an early age. Under the guidance of his mother, he attended Sunday School from infancy and transitioned into children's church as he grew. These early experiences laid the foundation for a lifelong pursuit of God, truth, and Kingdom purpose.
 
