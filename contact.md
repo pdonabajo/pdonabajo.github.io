@@ -216,11 +216,11 @@ We believe God hears and answers prayer.
 
 If you would like the Frequency Nation community to stand with you in prayer, please submit your prayer request through:
 
-• WhatsApp
+• WhatsApp: +234 806 279 8696
 
-• Email
+• Email: [thefrequencylive@outlook.com](mailto:thefrequencylive@outlook.com)
 
-• The Contact Form
+• The Contact Form: https://forms.gle/e2NFst4GjYQEJTwW9
 
 Every request is received with care, compassion, and respect.
 
