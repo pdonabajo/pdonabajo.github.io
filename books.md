@@ -16,7 +16,7 @@ Our commitment is to produce materials that remain biblically sound, spiritually
 
 ### Understanding the Supremacy, Glory and Authority of God
 
-The Excellency of God is the foundational work of Prince Davide (P.D.) Onabajo and serves as the theological cornerstone of The Frequency Live.
+The Excellency of God is the foundational work of Prince David (P.D.) Onabajo and serves as the theological cornerstone of The Frequency Live.
 
 This work explores the greatness of God and His supreme authority over all creation, culture, institutions, and human life.
 
