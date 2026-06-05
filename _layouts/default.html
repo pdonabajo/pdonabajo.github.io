@@ -27,17 +27,21 @@
     </header>
 
     <main>
-        {{ content }}
+        {% if page.full_width == true %}
+            <!-- For pages that should be full width (like homepage hero) -->
+            {{ content }}
+        {% else %}
+            <!-- For all other pages, wrap content in container -->
+            <div class="container">
+                {{ content }}
+            </div>
+        {% endif %}
     </main>
 
     <footer>
-    <p>© {{ 'now' | date: "%Y" }} P.D. Onabajo | The Frequency Live | Frequency Nation</p>
-    <p>Follow us: 
-        <a href="https://www.youtube.com/@TheFrequencyLive" target="_blank" rel="noopener noreferrer">YouTube</a> | 
-        <a href="https://www.instagram.com/thefrequencylive1" target="_blank" rel="noopener noreferrer">Instagram</a> | 
-        <a href="https://www.facebook.com/share/169PrmiGRo/" target="_blank" rel="noopener noreferrer">Facebook</a>
-    </p>
-</footer>
+        <p>© {{ 'now' | date: "%Y" }} P.D. Onabajo | The Frequency Live | Frequency Nation</p>
+        <p>Follow us: <a href="#">YouTube</a> | <a href="#">Instagram</a> | <a href="#">Facebook</a></p>
+    </footer>
 
     <script src="/assets/js/main.js"></script>
 </body>
