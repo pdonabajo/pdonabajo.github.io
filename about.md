@@ -1,3 +1,4 @@
+<img src="/images/pdonabajo.jpg" alt="P.D. Onabajo" style="width:180px; border-radius:50%;">
 # PRINCE DAVIDE (P.D.) ONABAJO
 
 ## Founder, The Frequency Live
