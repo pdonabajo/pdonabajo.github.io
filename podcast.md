@@ -4,7 +4,7 @@
 
 The media ministry of The Frequency Live exists to proclaim the Excellency of God as the Final Authority through conversations, teachings, testimonies, interviews, prayer broadcasts, and Kingdom-focused media content.
 
-Founded by Prince Davide (P.D.) Onabajo, The Frequency Live Podcast serves as a platform for spiritual insight, leadership development, revival conversations, Kingdom culture, and transformational stories that inspire believers to pursue God's purpose for their lives.
+Founded by Prince David (P.D.) Onabajo, The Frequency Live Podcast serves as a platform for spiritual insight, leadership development, revival conversations, Kingdom culture, and transformational stories that inspire believers to pursue God's purpose for their lives.
 
 Our mission is not merely to create content but to create impact.
 
