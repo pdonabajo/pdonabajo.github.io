@@ -155,6 +155,6 @@ Together, we proclaim the Excellency of God as the Final Authority.
 **Doctrine:** The Excellency of God  
 **Slogan:** Final Authority  
 **Community:** Frequency Nation  
-**Founder:** Prince Davide (P.D.) Onabajo
+**Founder:** Prince David (P.D.) Onabajo
 
 *“Raising a generation that knows God, walks in truth, demonstrates Kingdom excellence, and transforms the world through the power of Jesus Christ.”*
