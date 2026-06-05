@@ -1,4 +1,4 @@
-
+# DOCTRINE LIBRARY
 
 ## The Foundational Teachings of The Frequency Live
 
