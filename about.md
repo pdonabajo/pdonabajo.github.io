@@ -70,4 +70,4 @@ Through prayer gatherings, revival meetings, leadership development, media platf
 
 I believe that the greatest need of our generation is a return to the absolute authority and excellency of God. My mission is to raise a generation that knows Him, walks in truth, pursues holiness, demonstrates Kingdom excellence, and transforms the world through the power of Jesus Christ.
 
-— Prince Davide (P.D.) Onabajo
+— Prince David (P.D.) Onabajo
