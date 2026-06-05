@@ -2,7 +2,7 @@
 
 ## Equipping Believers for a Life of Prayer, Fasting and Spiritual Growth
 
-Prayer has been at the heart of Prince Davide (P.D.) Onabajo's ministry journey since the founding of Potent Prayer Evangelical Church in 2009.
+Prayer has been at the heart of Prince David (P.D.) Onabajo's ministry journey since the founding of Potent Prayer Evangelical Church in 2009.
 
 At The Frequency Live, we believe prayer is not simply a religious activity—it is a divine partnership with God that transforms individuals, families, communities, and nations.
 
