@@ -201,7 +201,7 @@ Resources may include:
 
 By leveraging technology, we seek to make Kingdom resources available to believers around the world.
 
----
+--- 
 
 # WRITING AS A MINISTRY
 
