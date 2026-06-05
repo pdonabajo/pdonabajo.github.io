@@ -68,7 +68,7 @@ Our team will respond as promptly as possible.
 
 ## Speaking, Teaching & Ministry Engagements
 
-Prince Davide (P.D.) Onabajo is available for selected:
+Prince David (P.D.) Onabajo is available for selected:
 
 • Conferences  
 • Leadership seminars  
