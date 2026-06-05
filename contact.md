@@ -1,4 +1,3 @@
-# CONTACT
 
 ## Connect With The Frequency Live
 
