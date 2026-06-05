@@ -223,5 +223,5 @@ The purpose of every publication is to proclaim the Excellency of God as the Fin
 
 Romans 11:36
 
-Prince Davide (P.D.) Onabajo
+Prince David (P.D.) Onabajo
 Founder, The Frequency Live
