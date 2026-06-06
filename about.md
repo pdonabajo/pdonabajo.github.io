@@ -1,6 +1,14 @@
 <img src="/images/pdonabajo.jpg" alt="P.D. Onabajo" style="width:180px; border-radius:50%;">
+---
+layout: page
+title: About P.D. Onabajo
+permalink: /about/
+---
+
 # PRINCE DAVID (P.D.) ONABAJO
 
+## Biography
+...
 ## Founder, The Frequency Live
 
 ### Proclaiming The Excellency of God as the Final Authority
